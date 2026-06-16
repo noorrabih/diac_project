@@ -1,0 +1,1035 @@
+Processing 20,535 JSON files ...
+  0 / 20,535 files  (0 tokens so far)
+  Loaded BAREC_ZAEBUC_AR-130-288874_001.json
+  Loaded BAREC_ZAEBUC_AR-130-97412_001.json
+  Loaded BAREC_ZAEBUC_AR-130-197898_001.json
+  Loaded BAREC_ZAEBUC_AR-030-97791_001.json
+  Loaded BAREC_ZAEBUC_AR-130-190863_001.json
+  Loaded BAREC_ZAEBUC_AR-130-84446_001.json
+  Loaded BAREC_ZAEBUC_AR-130-189799_001.json
+  Loaded BAREC_ZAEBUC_AR-130-95365_001.json
+  Loaded BAREC_ZAEBUC_AR-130-90308_001.json
+  Loaded BAREC_ZAEBUC_AR-130-189921_001.json
+  Loaded BAREC_ZAEBUC_AR-130-195100_001.json
+  Loaded BAREC_ZAEBUC_AR-130-84014_001.json
+  Loaded BAREC_ZAEBUC_AR-130-90783_001.json
+  Loaded BAREC_ZAEBUC_AR-130-82310_001.json
+  Loaded BAREC_ZAEBUC_AR-030-92524_001.json
+  Loaded BAREC_ZAEBUC_AR-130-92903_001.json
+  Loaded BAREC_ZAEBUC_AR-030-92800_001.json
+  Loaded BAREC_ZAEBUC_AR-130-189750_001.json
+  Loaded BAREC_ZAEBUC_AR-130-96120_001.json
+  Loaded BAREC_ZAEBUC_AR-130-81303_001.json
+  Loaded BAREC_ZAEBUC_AR-130-292703_001.json
+  Loaded BAREC_ZAEBUC_AR-130-191075_001.json
+  Loaded BAREC_ZAEBUC_AR-130-119813_001.json
+  Loaded BAREC_ZAEBUC_AR-130-84627_001.json
+  Loaded BAREC_ZAEBUC_AR-130-190122_001.json
+  Loaded BAREC_ZAEBUC_AR-130-194718_001.json
+  Loaded BAREC_ZAEBUC_AR-130-82659_001.json
+  Loaded BAREC_ZAEBUC_AR-130-96479_001.json
+  Loaded BAREC_ZAEBUC_AR-030-96339_001.json
+  Loaded BAREC_ZAEBUC_AR-130-194708_001.json
+  Loaded BAREC_ZAEBUC_AR-130-98231_001.json
+  Loaded BAREC_ZAEBUC_AR-130-99351_001.json
+  Loaded BAREC_ZAEBUC_AR-130-97908_001.json
+  Loaded BAREC_ZAEBUC_AR-130-81425_001.json
+  Loaded BAREC_ZAEBUC_AR-130-191743_001.json
+  Loaded BAREC_ZAEBUC_AR-130-192949_001.json
+  Loaded BAREC_ZAEBUC_AR-130-90095_001.json
+  Loaded BAREC_ZAEBUC_AR-130-92245_001.json
+  Loaded BAREC_ZAEBUC_AR-130-98675_001.json
+  Loaded BAREC_ZAEBUC_AR-130-89391_001.json
+  Loaded BAREC_ZAEBUC_AR-130-91256_001.json
+  Loaded BAREC_ZAEBUC_AR-130-97947_001.json
+  Loaded BAREC_ZAEBUC_AR-130-97726_001.json
+  Loaded BAREC_ZAEBUC_AR-130-97823_001.json
+  Loaded BAREC_ZAEBUC_AR-130-193451_001.json
+  Loaded BAREC_ZAEBUC_AR-130-188847_001.json
+  Loaded BAREC_ZAEBUC_AR-130-97652_001.json
+  Loaded BAREC_ZAEBUC_AR-030-81757_001.json
+  Loaded BAREC_ZAEBUC_AR-130-191809_001.json
+  Loaded BAREC_ZAEBUC_AR-130-82421_001.json
+  Loaded BAREC_ZAEBUC_AR-130-86817_001.json
+  Loaded BAREC_ZAEBUC_AR-130-97981_001.json
+  Loaded BAREC_ZAEBUC_AR-130-91028_001.json
+  Loaded BAREC_ZAEBUC_AR-130-94320_001.json
+  Loaded BAREC_ZAEBUC_AR-130-92988_001.json
+  Loaded BAREC_ZAEBUC_AR-130-19883_001.json
+  Loaded BAREC_ZAEBUC_AR-030-268469_001.json
+  Loaded BAREC_ZAEBUC_AR-130-95973_001.json
+  Loaded BAREC_ZAEBUC_AR-130-187968_001.json
+  Loaded BAREC_ZAEBUC_AR-130-192387_001.json
+  Loaded BAREC_ZAEBUC_AR-130-85828_001.json
+  Loaded BAREC_ZAEBUC_AR-130-80566_001.json
+  Loaded BAREC_ZAEBUC_AR-130-95626_001.json
+  Loaded BAREC_ZAEBUC_AR-130-93459_001.json
+  Loaded BAREC_ZAEBUC_AR-130-88399_001.json
+  Loaded BAREC_ZAEBUC_AR-130-97035_001.json
+  Loaded BAREC_ZAEBUC_AR-130-93034_001.json
+  Loaded BAREC_ZAEBUC_AR-030-87953_001.json
+  Loaded BAREC_ZAEBUC_AR-130-86741_001.json
+  Loaded BAREC_ZAEBUC_AR-130-199101_001.json
+  Loaded BAREC_ZAEBUC_AR-130-96882_001.json
+  Loaded BAREC_ZAEBUC_AR-130-165949_001.json
+  Loaded BAREC_ZAEBUC_AR-130-82789_001.json
+  Loaded BAREC_ZAEBUC_AR-130-198249_001.json
+  Loaded BAREC_ZAEBUC_AR-130-85466_001.json
+  Loaded BAREC_ZAEBUC_AR-130-85294_001.json
+  Loaded BAREC_ZAEBUC_AR-130-89674_001.json
+  Loaded BAREC_ZAEBUC_AR-130-99590_001.json
+  Loaded BAREC_ZAEBUC_AR-130-98148_001.json
+  Loaded BAREC_ZAEBUC_AR-130-90813_001.json
+  Loaded BAREC_ZAEBUC_AR-130-190808_001.json
+  Loaded BAREC_ZAEBUC_AR-130-93285_001.json
+  Loaded BAREC_ZAEBUC_AR-130-96883_001.json
+  Loaded BAREC_ZAEBUC_AR-130-92132_001.json
+  Loaded BAREC_ZAEBUC_AR-130-19632_001.json
+  Loaded BAREC_ZAEBUC_AR-030-89249_001.json
+  Loaded BAREC_ZAEBUC_AR-130-190745_001.json
+  Loaded BAREC_ZAEBUC_AR-130-83139_001.json
+  Loaded BAREC_ZAEBUC_AR-130-91347_001.json
+  Loaded BAREC_ZAEBUC_AR-130-92771_001.json
+  Loaded BAREC_ZAEBUC_AR-030-93360_001.json
+  Loaded BAREC_ZAEBUC_AR-130-289115_001.json
+  Loaded BAREC_ZAEBUC_AR-130-85331_001.json
+  Loaded BAREC_ZAEBUC_AR-130-97841_001.json
+  Loaded BAREC_ZAEBUC_AR-130-92844_001.json
+  Loaded BAREC_ZAEBUC_AR-130-89415_001.json
+  Loaded BAREC_ZAEBUC_AR-130-99201_001.json
+  Loaded BAREC_ZAEBUC_AR-130-90530_001.json
+  Loaded BAREC_ZAEBUC_AR-130-190307_001.json
+  Loaded BAREC_ZAEBUC_AR-130-91705_001.json
+  Loaded BAREC_TheFiveAdventurers_172 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_060 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_089 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_185 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_041 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_097 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_153 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_003 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_111 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_130 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_022 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_051 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_143 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_087 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_162 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_070 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_099 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_120 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_032 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_013 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_101 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_131 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_023 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_002 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_110 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_040 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_184 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_152 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_096 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_173 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_061 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_088 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_012 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_100 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_121 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_033 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_163 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_071 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_098 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_050 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_086 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_142 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_030 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_122 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_103 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_011 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_085 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_141 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_053 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_072 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_137 لغز _001.json
+  Loaded BAREC_TheFiveAdventurers_160 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_113 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_001 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_020 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_132 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_062 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_136 لغز _001.json
+  Loaded BAREC_TheFiveAdventurers_170 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_151 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_095 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_043 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_187 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_073 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_188 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_161 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_140 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_084 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_052 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_102 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_010 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_031 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_123 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_094 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_150 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_186 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_063 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_171 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_021 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_133 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_112 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_037 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_008 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_125 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_104 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_029 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_016 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_082 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_146 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_179 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_138 لغز _001.json
+  Loaded BAREC_TheFiveAdventurers_054 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_075 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_158 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_167 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_039 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_114 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_006 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_027 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_135 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_018 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_148 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_065 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_177 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_156 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_092 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_044 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_169 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_180 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_159 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_074 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_166 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_147 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_083 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_055 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_178 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_028 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_105 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_017 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_036 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_124 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_009 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_093 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_157 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_168 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_181 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_045 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_064 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_149 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_176 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_026 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_019 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_134 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_115 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_038 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_007 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_175 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_058 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_067 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_182 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_046 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_090 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_079 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_154 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_004 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_129 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_116 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_108 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_025 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_056 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_144 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_080 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_069 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_048 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_165 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_077 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_127 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_035 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_118 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_139 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_014 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_106 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_024 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_109 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_128 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_005 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_117 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_047 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_183 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_155 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_091 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_078 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_059 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_174 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_066 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_015 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_107 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_126 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_119 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_034 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_164 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_049 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_076 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_057 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_081 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_068 لغز_001.json
+  Loaded BAREC_TheFiveAdventurers_145 لغز_001.json
+  Loaded BAREC_APCD_ابن الأبار_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الحكم بن عمرو البهراني_الحكم بن عمرو البهراني_001.json
+  Loaded BAREC_APCD_ابن سوس_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي الحصري القيرواني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن زيدان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ياقوت المستعصمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_إبراهيم بن نصر الغنوي_إبراهيم بن نصر الغنوي_001.json
+  Loaded BAREC_APCD_أبو علي ابن فورَّجهْ_أبو علي ابن فورَّجهْ_001.json
+  Loaded BAREC_APCD_اللبادي_اللبادي_001.json
+  Loaded BAREC_APCD_أبو جلدة اليشكري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الهبل_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عباد بن عمرو بن كلثوم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_رسلان زين العابدين_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حمدان البابي الحلبي_حمدان البابي الحلبي_001.json
+  Loaded BAREC_APCD_جواد بدقت الأسدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن الدهان الموصلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن رتعس السنجاري_ابن رتعس السنجاري_001.json
+  Loaded BAREC_APCD_سهم الغنوي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد الغيث النعمة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الحسين بن عتيق التغلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن حسين الخليلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن مسعود القرطبي_محمد بن مسعود القرطبي_001.json
+  Loaded BAREC_APCD_إبراهيم الطباطبائي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محيي الدين ابن الزكي_محيي الدين ابن الزكي_001.json
+  Loaded BAREC_APCD_محبوبة جارية المتوكل_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الحزين الكنانيّ_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حاجز بن عوف الأزدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_كشاجم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابنة حكيم بن عمرو العبدية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ضرار بن ضبة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حسن آل مكي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_راشد بن خنين_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمرو الطريد_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو سلمى المزني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الشريف المرتضى_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سحيم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_بشارة الخاقاني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو كبير الهذلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الله بن همام السلولي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو المؤيد العنتري_أبو المؤيد العنتري_001.json
+  Loaded BAREC_APCD_الأعلم الزوزني_الأعلم الزوزني_001.json
+  Loaded BAREC_APCD_عِمران بن حطان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الفياض الهروي_الفياض الهروي_001.json
+  Loaded BAREC_APCD_البارع الجُرجاني_البارع الجُرجاني_001.json
+  Loaded BAREC_APCD_ابن طباطبا الرسي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مالِك بن مَلالَة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الهادي شليلة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_شهاب الدين الخفاجي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الفوارس بن الطلائي الاسكندراني _أبو الفوارس بن الطلائي الاسكندراني _001.json
+  Loaded BAREC_APCD_إبراهيم العظم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابراهيم محمد ابراهيم _ابراهيم محمد ابراهيم_001.json
+  Loaded BAREC_APCD_مجالد الهمداني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد الهندي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الحسن بن هود المرسي الجذامي_الحسن بن هود المرسي الجذامي_001.json
+  Loaded BAREC_APCD_بغثر بن لقيط الأسدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سعيد عقل _سعيد عقل_001.json
+  Loaded BAREC_APCD_أبو الرقعمق_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عباس العاملي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_جَبَلَة بن الحارِث_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عِرَار بن مَالِك_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حسين نجف_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو مشرف الدجرجاوي_أبو مشرف الدجرجاوي_001.json
+  Loaded BAREC_APCD_محمد بن علي الفشتالي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_هشام المري._الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_غالي بن المختار فال البوصادي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأسود بن سريع التميمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مروان الطليق_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عِمْران بن هلباء_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابو الفضل العروضي الصفار_ابو الفضل العروضي الصفار_001.json
+  Loaded BAREC_APCD_السلار العقيلي_السلار العقيلي_001.json
+  Loaded BAREC_APCD_عَطَّافُ بن أبي شَعْفرة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_قمر البغدادية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو عليّ النَّخْشَبيّ_أبو عليّ النَّخْشَبيّ_001.json
+  Loaded BAREC_APCD_سكينة بنت الحسين_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأحول الحسني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بو جندار_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمر نبهان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_إبراهيم حموزي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_نور الدين السالمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الوهاب البياتي_عبد الوهاب البياتي_001.json
+  Loaded BAREC_APCD_شُبَيْل بن الِجنِبَّار_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمرو بن عوف الهمداني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو بكر الصديق_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي الشيخ جعفر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي صافي الغراوي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الحميد السنوسي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن الشيخ سيدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_خولة بنت ثابت_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد العزيز بن عبد اللطيف آل مبارك_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_طَرَفَة بن العَبد_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن راشد الحمامي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو مَلِيط العنبري_أبو مليط العنبري_001.json
+  Loaded BAREC_APCD_أبو حية النميري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن الزمكدم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مسلم الوالبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد اللطيف الطوير_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن القيسراني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أميمة بنت أمية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مَعقِل الهذلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_زين العابدين بن حسن باقر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن أبي دينار_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المقداد بن الأسود_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_يزيد بن ضبّة الثقفي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن جحجوك_ابن جحجوك_001.json
+  Loaded BAREC_APCD_عمارة بن صفوان الضبي_عمارة بن صفوان الضبي_001.json
+  Loaded BAREC_APCD_أم سنان بنت خيثمة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محبوب الخوري الشرتوني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_شهاب الدين الخزرجي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الزَمَخشَري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_القاضي عياض_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سلمة الحداني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن نباتة المصري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حُميَدْ بن حُريث_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_تاج الملوك الأيوبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن القصيرة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن عبد العزيز الغزي_محمد بن عبد العزيز الغزي_001.json
+  Loaded BAREC_APCD_الشاب الظريف_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أم عمرو بنت مكدم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_السري الرفّاء_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد علي هلال_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_فخري أبو السعود_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حسين البروجردي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_دخنتوس بنت لقيط_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الجليل الطباطبائي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الشريف أبو إبراهيم الحراني_ديوان الشريف أبو إبراهيم الحراني_001.json
+  Loaded BAREC_APCD_حسن قويدر الخليلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن المستوفي الإربلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمارة الكباري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي بن أبي طالب_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو علي الشبلي البوشنجي_أبو علي الشبلي البوشنجي_001.json
+  Loaded BAREC_APCD_عائشة التيمورية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي بن أحمد العبشمي العثماني_علي بن أحمد العبشمي العثماني_001.json
+  Loaded BAREC_APCD_فهد العسكر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو سهل المعري_أبو سهل المعري_001.json
+  Loaded BAREC_APCD_أعصُر بن سعد_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_شميم الحلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_جواد قشاقش_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الفضل الكناني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_رؤبة الثعلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الإمام ابن الهيصم الهروي_الإمام ابن الهيصم الهروي_001.json
+  Loaded BAREC_APCD_أبو الحسين البستي الفقيه_أبو الحسين البستي الفقيه_001.json
+  Loaded BAREC_APCD_أمية بن أبي الصلت_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو القاسم الأسفراييني_أبو القاسم الأسفراييني_001.json
+  Loaded BAREC_APCD_نهار بن توسعة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أرْبَدُ بن ضابِئ_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_نجيب الحداد_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمّد صديق خان القنوجي_محمّد صديق خان القنوجي_001.json
+  Loaded BAREC_APCD_عمرو بن سلمة الأرحبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الكريم معتوق_عبد الكريم معتوق_001.json
+  Loaded BAREC_APCD_إبراهيم بن المهدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي بن محمد الشحي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن جُدير البصري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو العلاء الغانمي الهروي_أبو العلاء الغانمي الهروي_001.json
+  Loaded BAREC_APCD_أبو يعلى الزوزني_أبو يعلى الزوزني_001.json
+  Loaded BAREC_APCD_سلامة الشيباني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الستالي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الفراء القائني_الفراء القائني_001.json
+  Loaded BAREC_APCD_محمد فال بن بابه العلوي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_صالح حجي الصغير_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سَلامَة بن جَندَل_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو مسعودٍ الجُرجاني_أبو مسعودٍ الجُرجاني_001.json
+  Loaded BAREC_APCD_أبو العرفان الصبان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بوسيف_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_العجاج_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_السهروردي المقتول_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن عمرو الكندي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو غانم الزوزني_أبو غانم الزوزني_001.json
+  Loaded BAREC_APCD_ابن مسرة البغدادي_ابن مسرة البغدادي_001.json
+  Loaded BAREC_APCD_هند بنت أسد الضبابية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_خضر القزويني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الوجيه النحوي الضرير ابن الدهان_الوجيه النحوي الضرير ابن الدهان_001.json
+  Loaded BAREC_APCD_أحمد بن سليم اللبابيدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأُدَيْرِد الكلبْي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أم ظبية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حسن عبد الباقي الموصلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد عثمان جلال_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد حسن حيدر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_غازي القصيبي_غازي بن عبد الرحمن القصيبي_001.json
+  Loaded BAREC_APCD_الخنساء بنت التيحان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_يحيى بن أبي حفصة_يحيى بن أبي حفصة_001.json
+  Loaded BAREC_APCD_أبو الحسن ابن نجدة_أبو الحسن ابن نجدة_001.json
+  Loaded BAREC_APCD_مصطفى البابي الحلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عامر المُحارِبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد طاهر السماوي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي بن عبد العزيز ابن زيادة الله الطبني_علي بن عبد العزيز ابن زيادة الله الطبني_001.json
+  Loaded BAREC_APCD_أحمد البربير_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو المجد المعري ابن أبي اليسر_أبو المجد ابن ابي اليسر المعري_001.json
+  Loaded BAREC_APCD_يزيد الشَنّي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابنة عقيل بن أبي طالب_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو حامد الزوزني_أبو حامد الزوزني_001.json
+  Loaded BAREC_APCD_سارية الدُؤلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأصمعي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو محمد المخزومي البصري_أبو محمد المخزومي البصري_001.json
+  Loaded BAREC_APCD_برير الهمداني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_فدوى طوقان_فدوى طوقان_001.json
+  Loaded BAREC_APCD_المحَيّا الهمداني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن صنعان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مالك الأشتر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الحاكم الباخرزي التيرشاذي_الحاكم الباخرزي التيرشاذي_001.json
+  Loaded BAREC_APCD_عروة بن زيد الخيل_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عَنتَرَة بن شَدّاد_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن ميادة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو عمرو البَشَجي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الله بن طاهر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ربيعة الأسدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_البلاذري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عامِر بن زُهَيْر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_النابغة التغلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن أبي العباس المشكاني الزوزني_محمد بن أبي العباس المشكاني الزوزني_001.json
+  Loaded BAREC_APCD_أبو الغوث ابن محجز المنبجي_أبو الغوث ابن محجز المنبجي_001.json
+  Loaded BAREC_APCD_مالك بن أسماء الفزاري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو سعيد الرستمي_أبو سعيد الرستمي_001.json
+  Loaded BAREC_APCD_محمد على عز الدين_الديوان الرئيسي_001.json
+  500 / 20,535 files  (175,151 tokens so far)
+  Loaded BAREC_APCD_أبو ظبيان الغامدي_أبو ظبيان الغامدي_001.json
+  Loaded BAREC_APCD_أبو المظفر عبد الجبار_أبو المظفر عبد الجبار_001.json
+  Loaded BAREC_APCD_محسن فرج_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_وَبرَة المَعني الطائي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الله الفرج_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد العزيز البشري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الوأواء الدمشقي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حسن بحر العلوم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حُلَيل الخُزاعي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عباس الأعسم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أسير الهوى_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن النحاس الحلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_شهدة الكاتبة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أحمد بن كليب الأندلسي_أحمد بن كليب الأندلسي_001.json
+  Loaded BAREC_APCD_أبو الحسن بن السُّكري_أبو الحسن بن السُّكري_001.json
+  Loaded BAREC_APCD_عَقِيل بن مَسْعود_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_جَعدة السعدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو عبد الرحمن الخوسري البلخي_أبو عبد الرحمن الخوسري البلخي_001.json
+  Loaded BAREC_APCD_هُنَي بن أحمر الكِناني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أم ناشب الحارثية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_تنها بنت قرط العبدية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الخير الطباع_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مُعاذ الطائي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو سعد محمد بن حمزة المَوصلي_أبو سعد محمد بن حمزة المَوصلي_001.json
+  Loaded BAREC_APCD_الأعرج المعني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مجد العرب العامري _مجد العرب العامري _001.json
+  Loaded BAREC_APCD_علي بن آلا_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سُوَيْد مُنَيْواء_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_رِفاعَة الهمداني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الوزير أبو الفرج ابن فَسانْجِس_الوزير أبو الفرج ابن فسانجس_001.json
+  Loaded BAREC_APCD_الغسانية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_برهان الدين القيراطي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المأمون اليعقوبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد البيضاوي الشنكيطي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عياض بن غنم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو جعفر البحاثي الجد_أبو جعفر البحاثي الجد_001.json
+  Loaded BAREC_APCD_علي الغريفي الكبير_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حسين الرضوي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أحمد القوصي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مُصعَب الماجن_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_صاحب الزنج_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الحسن الجوهري_أبو الحسن الجوهري_001.json
+  Loaded BAREC_APCD_معاوِية بن سنان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن بابكر الفاضلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأَخطَل_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ضاحية الهلالية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن جُبَير_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو عطاء السندي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأَسفَع الأَرحَبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن سينا_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأَفوَهِ الأَودِيّ_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_جواد الحسيني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن داود الظاهري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن مالك الحميري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_القاسم بن عبيد الله_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_موسى بن عمران المارتلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المبارك بن فاخر أبو الكرم النحوي_المبارك بن فاخر أبو الكرم النحوي_001.json
+  Loaded BAREC_APCD_عبد الله بن يحيى الخارجي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الناشئ الأصغر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سعد صالح_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_البارع البغدادي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن عبد العزيز العجلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_العباس بن الحسن العلوي العباسي_العباس بن الحسن العلوي العباسي_001.json
+  Loaded BAREC_APCD_أمين الجندي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الشيص الخزاعي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_فاطمة بنت الحسين_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو نصر المهلبي الأسفراييني_أبو نصر المهلبي الأسفراييني_001.json
+  Loaded BAREC_APCD_الصاحب شرف الدين_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الحسين أسد الله_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_نظام الدين الأصفهاني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الحسن القرمطي السعيدي _أبو الحسن القرمطي السعيدي _001.json
+  Loaded BAREC_APCD_ابن سودون_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_العاصمي_العاصمي_001.json
+  Loaded BAREC_APCD_شقصة الفزاري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو محمد المَروانيّ النَّسَفيّ_أبو محمد المَروانيّ النَّسَفيّ_001.json
+  Loaded BAREC_APCD_الأبله البغدادي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حسن الدجيلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو مِحجن الثقفي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_معصوم الدِّهِسْتانيّ_معصوم الدِّهِسْتانيّ_001.json
+  Loaded BAREC_APCD_أبو بكر اليوسفي الزوزني_أبو بكر اليوسفي الزوزني_001.json
+  Loaded BAREC_APCD_بطرس البستاني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_صدر الدين محمد العاملي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد جواد زين العابدين_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو العميثل الأعرابي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أرسانيوس الفاخوري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_بَكرِ بنِ النَطّاح_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_زيد الموشكي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_اسحاق بن إبراهيم القيرواني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أحمد بن إبراهيم البغوي الهروي_أحمد بن إبراهيم البغوي الهروي_001.json
+  Loaded BAREC_APCD_ذو الخِرَق الطُهَوي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سهل الفزاري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن حَسَنيل الهمذاني_ابن حَسَنيل الهمذاني_001.json
+  Loaded BAREC_APCD_أبو الفرج الأصبهاني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن الخشكري النصيري_ابن الخشكري النصيري_001.json
+  Loaded BAREC_APCD_الزبرقان بن بدر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الحسن الكاتب_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المقنع الكندي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو جعفر الزوزني الزاهد_أبو جعفر الزوزني الزاهد_001.json
+  Loaded BAREC_APCD_لطف الله بن المعافي _لطف الله بن المعافي _001.json
+  Loaded BAREC_APCD_أبو طاهر ابن الخبز أرزي_أبو طاهر ابن الخبز أرزي_001.json
+  Loaded BAREC_APCD_خِرقَة بن نُتَافة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو سعد الأثيريّ الخَوارزميّ_أبو سعد الأثيريّ الخَوارزميّ_001.json
+  Loaded BAREC_APCD_الراضي بالله_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي الدرويش_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_يعقوب بن سليمان الأسفراييني الخازن_يعقوب بن سليمان الأسفراييني الخازن_001.json
+  Loaded BAREC_APCD_عبد الحسين الخليلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أم حكيم بنت قارظ_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_نصر الله الحائري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_جرجس عيسى السكاف_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الشريف جمال الدين النيسابوري_الشريف جمال الدين النيسابوري_001.json
+  Loaded BAREC_APCD_ياقوت الرومي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الله الخضري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبوعلي البستي_أبوعلي البستي_001.json
+  Loaded BAREC_APCD_محمد بن إدريس ابن أبي حفصة_محمد بن إدريس ابن أبي حفصة_001.json
+  Loaded BAREC_APCD_الحُصَيْن بن حِمَال_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن البقال البغدادي_ابن البقال البغدادي_001.json
+  Loaded BAREC_APCD_العميد أبو سهل الزوزني_العميد أبو سهل الزوزني_001.json
+  Loaded BAREC_APCD_المظفر المنبجي_المظفر المنبجي_001.json
+  Loaded BAREC_APCD_شقراء بنت الحباب_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حارَثة بن صخر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو جعفر السابزواري البيهقي_أبو جعفر السابزواري البيهقي_001.json
+  Loaded BAREC_APCD_أبو نصر الفازِري الأستراباذي_أبو نصر الفازِري الأستراباذي_001.json
+  Loaded BAREC_APCD_مَسْروحُ بن أَدْهم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد حرز الدين_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عَبدُ مالِك بن النُّعْمان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_يقوى الفاضلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المختار بن يب الحسني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_غيلان بن سلمة الثقفي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_رافع الأقطع_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المتوكل الليثي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_شيخ الدولة البركردزي_شيخ الدولة البركردزي_001.json
+  Loaded BAREC_APCD_مروان بن ابي الجنوب_مروان بن ابي الجنوب_001.json
+  Loaded BAREC_APCD_المؤمل البستي_المؤمل البستي_001.json
+  Loaded BAREC_APCD_بكر بن خارِجَة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو حفص السلمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_غريب الخادم_غريب الخادم_001.json
+  Loaded BAREC_APCD_داود بن عقبة العبدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مالِك بن امْرِئ القيس_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأعْورُ بن بَراء_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_القاضي أبو عبد الله ابن النعمان_القاضي أبو عبد الله ابن النعمان_001.json
+  Loaded BAREC_APCD_عبد الرحمن الأخضري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_زكي مبارك_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن حَربون_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المسترشد بالله العباسي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو البركات الطائي_أبو البركات الطائي_001.json
+  Loaded BAREC_APCD_الطغرائي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن سنان الخفاجي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عز الدولة سديد الملك ابن منقذ_عز الدولة سديد الملك ابن منقذ_001.json
+  Loaded BAREC_APCD_أبو منصور القرمطي السعيدي _أبو منصور القرمطي السعيدي _001.json
+  Loaded BAREC_APCD_أبو سعيد الحزيني_أبو سعيد الحزيني_001.json
+  Loaded BAREC_APCD_محمد بيرم الثاني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو منصور القائني_أبو منصور القائني_001.json
+  Loaded BAREC_APCD_أبو بكر بناني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حَسّان بن ثابِت_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_نقولا الترك الإسطمبولي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مصطفى بن زكري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_جمال الدين ابن منقذ_جمال الدين ابن منقذ_001.json
+  Loaded BAREC_APCD_ابن خلكان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو غِلالة المخزومي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أحمد سالم بن الإمام الحاجي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_إبراهيم الأنطاكي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد طه نجف_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو قطيفة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سُبيع التيمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أعشى همدان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_السابق المعري_السابق المعري_001.json
+  Loaded BAREC_APCD_محمد ولد ابن ولد أحميدا_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو بكر بن مَلِك_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المفتي فتح الله_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الأزهر الزوزني_أبو الأزهر الزوزني_001.json
+  Loaded BAREC_APCD_رقاش أخت جذيمة الوضاح_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المَعّان بن روق_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الثرواني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمرو بن مخلاة الكلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_البرعي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو العباس الأعمى_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن حمود الشحي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن الحاج البلفيقي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد العياضي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_البقاعي_البقاعي_001.json
+  Loaded BAREC_APCD_قيس بن زهير_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ثابت قُطنة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_شراحيل بن عبد العزى_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_فاطمة بنت الأحجم الخزاعية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو هفان المهزمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن الفقاعي المعري_ابن الفقاعي المعري_001.json
+  Loaded BAREC_APCD_أروى بنت الحباب_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأمير خلف بن أحمد السجزي_الأمير خلف بن أحمد السجزي_001.json
+  Loaded BAREC_APCD_عبد الغني جميل_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمرو المرهبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_النجاشي الحارثي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي الترك_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_إبراهيم ناجي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابنة الضحاك بن سفيان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ولي الدين يكن_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أحمد بن أجمد اليدالي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو زيد الأرحبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_إبراهيم الأسطى عمر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_إبراهيم خيكي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بيرم الرابع_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد سعيد الإسكافي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن جَرّاحٍ البَكريُّ_محمد بن جَرّاحٍ البَكريُّ_001.json
+  Loaded BAREC_APCD_ابن ياسين الشاطبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن أبي حصينة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أمين خير الله_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_قُرْط بن قُدَامَة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_تقي الدين السبكي_تقي الدين السبكي_001.json
+  Loaded BAREC_APCD_ابن بَدَل الشريف_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو إسحاق الفارسي_أبو إسحاق الفارسي_001.json
+  Loaded BAREC_APCD_ابن هذيل القرطبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_بهاء الدين العاملي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمر بن أبي ربيعة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو لطيفة بن مسلم العقيلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن بقي القرطبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمرو بن مسعدة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو سعد الجرجاني الصيدلاني_أبو سعد الجرجاني الصيدلاني_001.json
+  Loaded BAREC_APCD_فريعة بنت همام الزلفاء_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_النمر بن تولب_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أسامة بن منقذ_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن فتى_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_كاتب الدرج_كاتب الدرج_001.json
+  Loaded BAREC_APCD_ابن وائل الخارجي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الله بن أحمد دام_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي الرمضان الشهيد_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سلمان المحسني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المظفر بن علي البوشنجي_المظفر بن علي البوشنجي_001.json
+  Loaded BAREC_APCD_قتادة الثعلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الثناء الشيزري_أبو الثناء الشيزري_001.json
+  Loaded BAREC_APCD_ابن لنكك البصري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مالك بن عمرو النضيري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن السيد البطليوسي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_كلا التندغي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_رفاعة الطهطاوي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن الصيقل الجزري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الله بن جَبَل_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مَعدي كَرِب الحِميَري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_جَنابُ بن مُنْقِذ_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_قتب الفزاري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أم الفضل بنت الحارث الهلالية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن الخياط _الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أوس بن زيد مناة العبدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمر الرافعي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المرقش الأصغر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حَجل الباهلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أصبهدوست الديلمي_أصبهدوست الديلمي_001.json
+  Loaded BAREC_APCD_مامون الشناوي_مأمون الشناوي_001.json
+  Loaded BAREC_APCD_ابن الهبارية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_إبراهيم الحوراني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن يونس الحميدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن حبيب التنوخي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_جليلة بنت مرة الشيبانية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد حسن آل صاحب الجواهر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الرزاق كرباكة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن ينفع الخوافي_ابن ينفع الخوافي_001.json
+  Loaded BAREC_APCD_بيهس الغطفاني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_داود بن عيسى الأيوبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_القاضي أبو القاسم الطبسي القائني_القاضي أبو القاسم الطبسي القائني_001.json
+  Loaded BAREC_APCD_مصطفى صادق الرافعي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محسن المنصوري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_نافع الخفاجي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأشَل البكري الأزرقي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_نَمران الهَمداني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمرو بن شأس الأسدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمر الأنسي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد حسن كبة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_السعد أبيه بن محمد فاضل_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_خلف الخاقاني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المثنى بن حارثة الشيباني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الفَرَزدَق_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو جعفر المعدني الزوزني_أبو جعفر المعدني الزوزني_001.json
+  Loaded BAREC_APCD_عبد الله الخلف الدحيان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأخوص الهمداني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سلمان بن خضر الطائفي _سلمان بن خضر الطائفي _001.json
+  Loaded BAREC_APCD_الشريف الجواني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المختار بن المعلى الحسني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_إبراهيم الطبري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن خلدون_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو بكر الفاضلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الهجرس بن كليب التغلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_العوراء اليربوعية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أحمد الصافي النجفي _أحمد الصافي النجفي_001.json
+  Loaded BAREC_APCD_أبو نصر النحاس الوساطي _أبو نصر النحاس الوساطي _001.json
+  Loaded BAREC_APCD_سعدي الشيرازي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_نعيم إبراهيم عيسى_نعيم إبراهيم عيسى_001.json
+  Loaded BAREC_APCD_أمامة بنت كليب التغلبية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_جلال الدين الرومي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أيمن بن الهماز العقيلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مغلس بن لقيط_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الربيع بن زياد الكلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن داود الجراح _محمد بن داود الجراح _001.json
+  Loaded BAREC_APCD_الصاوي علي شعلان_الصاوي علي شعلان_001.json
+  Loaded BAREC_APCD_العَرْجي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي حيدر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي الليثي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن المؤمَّل اليَشْكُريّ_محمد بن المؤمَّل اليَشْكُريّ_001.json
+  Loaded BAREC_APCD_القاضي أبو سعد الهروي_القاضي أبو سعد الهروي_001.json
+  Loaded BAREC_APCD_محمد حسن كاشف الغطاء_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_لَبيد بن ربيعة العامِري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_فارس ذي الخمار_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي بن محمد الصليحي _علي بن محمد الصليحي_001.json
+  Loaded BAREC_APCD_أبو الفوائد_أبو الفوائد_001.json
+  Loaded BAREC_APCD_علي بن الجهم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأُقَيْبل بن شِهاب_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عِفْرِسُ بن جَبْهَة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مصعب بن عبد الله الزبيري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن أبي كَريمَة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_شاعر الحمراء_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأخرس_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو المُخَفَّف_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عيسى اسكندر المعلوف_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سعد الدين بن عربي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد علي الأعسم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_العميد أبو بكر القهستاني_العميد أبو بكر القهستاني_001.json
+  Loaded BAREC_APCD_ابن السراج المالقي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن يزيد الحصني المسلمي الأموي_محمد بن يزيد الحصني المسلمي الأموي_001.json
+  Loaded BAREC_APCD_نعمة الحلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_زياد الأعجم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الله بن أبي عيينة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سَعْد بن الأَصْبغ_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_يربوع بن حنظلة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_جعفر الخرسان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الشمقمق_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عَبدَةِ بنِ الطَبيب_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمر الأزهري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مرهف بن أسامة بن منقذ_مرهف بن أسامة بن منقذ_001.json
+  Loaded BAREC_APCD_أبو الحسين الحلي النصيري_أبو الحسين الحلي النصيري_001.json
+  Loaded BAREC_APCD_يحيى بن صاعد الهروي_يحيى بن صاعد الهروي_001.json
+  Loaded BAREC_APCD_قسطندي داوود_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو محمد الخازن الأصفهاني_أبو محمد الخازن الأصفهاني_001.json
+  Loaded BAREC_APCD_سعيد السمان_سعيد السمان_001.json
+  Loaded BAREC_APCD_ابن مالك الأرحبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حسن الخضري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مَكِيتَ بن مُعاوية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد عبدالله نور الدين_محمد عبدالله نور الدين_001.json
+  Loaded BAREC_APCD_ابن الضيف الربعي_ابن الضيف الربعي_001.json
+  Loaded BAREC_APCD_الربعي المخزومي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد العزيز صبري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأعزّ أبو الفضل محمد بن إسماعيل_الأعزّ أبو الفضل محمد بن إسماعيل_001.json
+  Loaded BAREC_APCD_امرؤ القيس الزهيري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سلامة القشيري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ز5 أحمد فتحي_احمد فتحي_001.json
+  Loaded BAREC_APCD_محمد أحمد خليفة السويدي_محمد أحمد خليفة السويدي_001.json
+  Loaded BAREC_APCD_ضياء الدين الزرزاري_ضياء الدين الزرزاري_001.json
+  Loaded BAREC_APCD_شريح الثعلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_خزيمة بن ثابت الأنصاري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الطُفَيْل بن عُرْوة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو حَيّان المُوَسوس_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مالك بن الحارث_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن الحاجب النحوي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو يعلى الهروي_أبو يعلى الهروي_001.json
+  Loaded BAREC_APCD_حسن النجفي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_دريد المري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_قُريْف الكَلبْي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن لبال الشريشي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي البحراني النجفي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن أبي الخصال_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_يحيى بن علي المنجم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أم الكرام بنت المعتصم بن صمادح_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عَميرَة بن جُعَل التغلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن المُعتَز_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سلمى بنت بدر مالك _الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الحماحمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بيرم الخامس_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الرحمن العيدروس_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مُنير الراسبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سرية الفزاري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الأعين الأنطاكي_أبو الأعين الأنطاكي_001.json
+  Loaded BAREC_APCD_مالك الهذلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_همام الفزاري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن أبي المجد المعري_ابن أبي المجد المعري_001.json
+  Loaded BAREC_APCD_أسماء صاحبة جعد_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أَيوب البجلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عمرو بن المنتفق العامري_عمرو بن المنتفق العامري_001.json
+  Loaded BAREC_APCD_ابن مجير الأندلسي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الفضل الكاثي_أبو الفضل الكاثي_001.json
+  Loaded BAREC_APCD_حسن زايردهام_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الجندل الفزاري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابنة لبيد بن ربيعة العامري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_كهمس الرفاعي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مُدرِك بن عبد العُزّى_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_علي الخوئي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن أبي البشر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_رحمة بن غانم الأسدي_رحمة بن غانم الأسدي_001.json
+  Loaded BAREC_APCD_دينار بن نُعَيْم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_إبراهيم عبد القادر المازني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ممدوح عدوان_ممدوح عدوان _001.json
+  Loaded BAREC_APCD_ديكِ الجِنِّ الحِمصي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن الخطاب الكلابي _محمد بن الخطاب الكلابي _001.json
+  Loaded BAREC_APCD_المفضل الصغاني_المفضل الصغاني_001.json
+  Loaded BAREC_APCD_محمد معصوم_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_هادي كاشف الغطاء_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_إبراهيم الأكرمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن الحريش الأصفهاني_ابن الحريش الأصفهاني_001.json
+  Loaded BAREC_APCD_ابن الوردي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_القاضي العنسي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مؤيد الشيباني_مؤيد الشيباني_001.json
+  Loaded BAREC_APCD_أم خالد النميرية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن فضل الله_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن الراعي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عُقبَة الهزاني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد نجيبب سرور_محمد سرور_001.json
+  Loaded BAREC_APCD_ابن الحلاوي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الرواغ الشاكري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_النابِغَة الشيباني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_رضا الأصفهاني النجفي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_صالح الكواز الحلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_النعمان بن عقبة العتكي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_القاضي أبو بكر البستي_القاضي أبو بكر البستي_001.json
+  Loaded BAREC_APCD_ابن عطاء الله_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_والد أسامة بن منقذ_والد أسامة بن منقذ_001.json
+  Loaded BAREC_APCD_ابن خاتمة الأندلسي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو مدين الديماني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_زوجة قراد بن أجدع_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_العصامي_العصامي_001.json
+  Loaded BAREC_APCD_عبد الرحمن بن ابي بكر الصديق_عبد الرحمن بن أبي بكر الصديق_001.json
+  Loaded BAREC_APCD_شمس الدين ابن الصائغ العروضي_شمس الدين ابن الصائغ العروضي_001.json
+  Loaded BAREC_APCD_التهامي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_رافع بن نصر البغدادي_رافع بن نصر البغدادي_001.json
+  Loaded BAREC_APCD_عبد الكريم الممتن_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو العِبَر الهاشمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_معاوية الفزاري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عدي الجرجاني_عدي الجرجاني_001.json
+  Loaded BAREC_APCD_الموفق المكي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_باقر خليل_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الزاهد ابن عَيّاش_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد إمام العبد_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبد الكريم الفكون_عبد الكريم الفكون_001.json
+  Loaded BAREC_APCD_بلعاء بن قيس الكناني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_شهاب غانم_شهاب غانم_001.json
+  Loaded BAREC_APCD_أرطأة الفزاري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_شمر الحنفي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سعيد بن عمرو_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_اسماعيل سري الدهشان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_السَلاوِي الواعظ _الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الناظر المعري_الناظر المعري_001.json
+  Loaded BAREC_APCD_ابراهيم بن هرمة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سيديا بابه_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الشريف ضياء الدين الحسيني_الشريف ضياء الدين الحسيني_001.json
+  Loaded BAREC_APCD_شبل الفزاري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عاصِم البُرجُمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_باقر الكاظمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_تويت اليمامي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_حبيب الله الكاشاني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سعيد الكرمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_زهراء الكلابية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الحُطَيئَة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن خيرة المواعيني الإشبيلي_ابن خيرة المواعيني الإشبيلي_001.json
+  Loaded BAREC_APCD_لوط الطائي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مصطفى السفرجلاني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو منصور الجعفريّ_أبو منصور الجعفريّ_001.json
+  Loaded BAREC_APCD_إبراهيم الطويجن_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو علي القلندوشي السرخسي_أبو علي القلندوشي السرخسي_001.json
+  Loaded BAREC_APCD_معاوية بن أبي سفيان_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_زيد الخيل الطائي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_كعب بن جعيل_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الجَواد الهمداني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_العيوق بنت مسعود_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سعدى الأسدية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو البقاء الرندي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو بكر بن مُجبَر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد رضا آل كاشف الغطاء_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_البريق الهذلي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عبيدة اليشكري_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المعافى بن زكريا_المعافى بن زكريا_001.json
+  Loaded BAREC_APCD_محمد بن الإمام عبد الله_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الحسين بن علي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو القاسم الزياني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن الزقاق البلنسي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_عفيف الدين الكلبي المعري_عفيف الدين الكلبي المعري_001.json
+  Loaded BAREC_APCD_محمد آل حيدر_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن الطلب_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_طياب بن إبراهيم الموصلي_طياب بن إبراهيم الموصلي_001.json
+  Loaded BAREC_APCD_فاطمة بنت مر الخثعمية_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_سلمة بن الحر الأموي_سلمة بن الحر الأموي_001.json
+  Loaded BAREC_APCD_دَوسَر القُرَيعي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ابن سناء الملك_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ورقة بن نوفل_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أديب اسحاق_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_هُبَل الكلبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_الأسلوم اليامي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن مصطفى الغلامي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_إبراهيم بن إسحاق الحربي_إبراهيم بن إسحاق الحربي_001.json
+  Loaded BAREC_APCD_أبو الفضل بن محمد العقاد المكي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_طهمان بن عمرو الكلابي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد بن سلامة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_رشيد مصوبع_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الخير الجندي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محمد رضا الخزاعي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_محرز بن المكعبر الضبي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_مهيار الديلمي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_ذو الإصبع العدواني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_رفيقة بنت نباتة_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المسيب بن عَلس_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أبو الفضل المنذري الهروي_أبو الفضل المنذري الهروي_001.json
+  Loaded BAREC_APCD_مالك بن فهم الأزدي_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_أحمد بن طيفور_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_العم ابن سعيد الغرناطي_العم ابن سعيد الغرناطي_001.json
+  Loaded BAREC_APCD_قاسم حسن محي الدين_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_المختار بن بونا الجكني_الديوان الرئيسي_001.json
+  Loaded BAREC_APCD_يَزيد بن الطَثَريّة_الديوان الرئيسي_001.json
+
+Done. 317,571 tokens | 46,101 unique (lex, RL, diac_count) groups | 0 files skipped
+
+Building DataFrame ...
+
+Saved: barec10m_lex_diacritics.csv
+  Rows           : 125,966
+  Unique lexemes : 22,442
+  RL range       : 1 – 19
+
+Top 20 lexemes by total occurrences:
+lex
+فِي        47578
+مِنْ       44940
+عَلَى      33212
+أَنَّ      29166
+كَان       22582
+إِلَى      18792
+مَا        16438
+لِ         16190
+قَدْ       13692
+كُلّ       12558
+إِنَّ      11859
+بِ         11600
+لَا        11421
+عَنْ       11115
+قَال       10480
+هَٰذَا      9200
+الَّذِي     8660
+لَمْ        8205
+رَأَى       7674
+يَوْم       6678
