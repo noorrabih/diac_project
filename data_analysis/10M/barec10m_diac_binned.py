@@ -172,7 +172,9 @@ def print_dist_pair(dist_all, dist_no_tanw, label, total):
         on="bin", how="outer"
     )
     combined["bin"] = pd.Categorical(combined["bin"], categories=BIN_LABELS, ordered=True)
-    combined = combined.sort_values("bin").fillna(0)
+    combined = combined.sort_values("bin")
+    num_cols = combined.select_dtypes(include="number").columns
+    combined[num_cols] = combined[num_cols].fillna(0)
 
     if label:
         print(f"\n  {label}")
@@ -256,7 +258,9 @@ for source in sorted(df["source"].unique()):
             on="bin", how="outer"
         )
         comb["bin"] = pd.Categorical(comb["bin"], categories=BIN_LABELS, ordered=True)
-        comb = comb.sort_values("bin").fillna(0)
+        comb = comb.sort_values("bin")
+        num_cols = comb.select_dtypes(include="number").columns
+        comb[num_cols] = comb[num_cols].fillna(0)
         comb.insert(0, "RL",     level)
         comb.insert(0, "source", source)
         per_src_rl_rows.append(comb)
