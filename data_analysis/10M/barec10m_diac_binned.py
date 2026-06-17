@@ -27,6 +27,7 @@ _DIAC_SET = AR_DIAC_CHARSET
 _AR_LETTER_RE = re.compile(r'[ء-غف-يٱ]')
 
 BIN_LABELS = ["0", "1/5", "2/5", "3/5", "4/5", "5/5"]
+BIN_EDGES  = [-0.001, 0.0, 0.2, 0.4, 0.6, 0.8, float('inf')]
 
 
 def assign_bin(rate: float) -> str:
